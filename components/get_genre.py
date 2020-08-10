@@ -4,7 +4,7 @@ import time
 
 def getGenre(fname):
     try:
-        options = webdriver.ChromeOptions()
+        options = webdriver.ChromeOptions('./chromedriver/chromedriver.exe')
         options.add_argument('--incognito')
         driver = webdriver.Chrome(chrome_options=options)
 
