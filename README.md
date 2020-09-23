@@ -1,4 +1,4 @@
-# File-Arranger-Selenium
+# File-Arranger Selenium
 
 arranges file cluster but for the video part arranges movie by genre name
 
