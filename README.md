@@ -1,6 +1,6 @@
 # File Arranger Selenium
 
-arranges file cluster but for the video part arranges movie by genre name
+Arranges file cluster but for the video part arranges movie by genre name
 
 It grabs the genre from the google at the real-time
 
